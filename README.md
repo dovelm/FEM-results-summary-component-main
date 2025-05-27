@@ -44,14 +44,14 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 
 ### Screenshots
 
-![]()
+![desktop](https://github.com/dovelm/FEM-results-summary-component-main/blob/main/screenshots/desktop.PNG)
 
-![]()
+![mobile](https://github.com/dovelm/FEM-results-summary-component-main/blob/main/screenshots/mobile.PNG)
 
 
 ### Links
 
-[My Solution]()
+[My Solution](https://dovelm.github.io/FEM-results-summary-component-main/)
 
 
 ## My process
