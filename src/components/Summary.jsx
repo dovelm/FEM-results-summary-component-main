@@ -44,7 +44,7 @@ function Summary() {
                 )}
          </div>
           </div>
-          <button className="container__summary__button">Continue</button>
+          <button className="container__summary__button" type="submit">Continue</button>
         </section>
       </main>
     </>
